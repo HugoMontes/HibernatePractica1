@@ -12,7 +12,7 @@ public class ProbandoProfesor {
         Profesor p1 = new Profesor(1, "Juan", "Perez", "Gomez");
         Profesor p2 = new Profesor(2, "Maria", "Torrez", "Aliaga");
         Profesor p3 = new Profesor(3, "Pedro", "Romero", "Sanchez");
-        Profesor p4 = new Profesor(4, "Ana", "Perales", "Balboa");
+        Profesor p4 = new Profesor(4, "Jesus", "Perales", "Balboa");
         // INSTANCIAR OBJETO DAO
         ProfesorDao pdao = new ProfesorDao();
         // PERESISTIR OBJETOS EN LA BASE DE DATOS
