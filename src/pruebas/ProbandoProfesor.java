@@ -6,7 +6,7 @@ import java.util.Scanner;
 import model.Profesor;
 
 public class ProbandoProfesor {
-
+    
     public static void main(String[] args) {
         // INSTANCIAR OBJETOS PROFESOR
         Profesor p1 = new Profesor(1, "Juan", "Perez", "Gomez");
